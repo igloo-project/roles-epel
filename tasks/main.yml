@@ -10,7 +10,7 @@
         owner: root
         group: root
         mode: u=rw,g=r,o=r
- 
+
     - name: epel repository
       yum_repository:
         name: epel
