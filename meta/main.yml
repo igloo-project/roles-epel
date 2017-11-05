@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Laurent Almeras
+  description: EPEL activation.
+  license: BSD
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+    - name: Fedora
+      versions:
+        - 26
+  galaxy_tags:
+    - powo
+    - postgresql
+    - system
+dependencies: []
